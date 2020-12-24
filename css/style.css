@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: coral;
+}
+.card {
+    position: relative;
+    display: inline-block;
+    border-radius: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 0px black;
+}
+img {
+    position: relative;
+    box-sizing: content-box;
+    border-radius: 15px 15px 0px 0px;
+    height: 70%;
+    width: 100%;
+}
+
+#container-cars {
+    display: inline-block;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+div.price {
+    color: orange;
+}
